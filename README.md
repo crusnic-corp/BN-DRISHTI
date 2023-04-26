@@ -25,7 +25,7 @@ You can see different transitions/outputs by going through the cells.
 6) You can also save the output on your google drive or download them as .zip by uncommenting either of the last two cells.
 
 ## MODEL Files:
-- The custom YOLOv5 models trained on the BN-HTRd Dataset for **line and word segmentation** will be automatically downloaded when you run the script.
+- The custom [YOLOv5](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data) models trained on the BN-HTRd Dataset for **line and word segmentation** will be automatically downloaded when you run the script.
 - If you want to download the Trained Models you can visit our Hugging Face Model Hub:
 	- [BN-DRISHTI Line/Word Segmentation Models](https://huggingface.co/crusnic/BN-DRISHTI/tree/main/models)
 	
