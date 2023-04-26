@@ -9,9 +9,43 @@ Line and Word Segmentation for Bangla Handwritten Text Recognition
 	
 You can see different transitions/outputs by going through the cells.
 
-## Running Bulk Inferencing:
+## Running Bulk Inferencing (on unannotated images):
 1) Open the **BN_DRISHTI_Bulk_Inferencing.ipynb** script from 'bulk_inferencing' folder and click on the **Open In Colab** Button.
 2) Run the script from **Runtime ->  Run All**
 3) By default it is executed on the **bulk_sample.zip** data but you can supply your own .zip file through a link. 
 4) The outputs will be saved on the temporary space in CoLab.
 5) You can also save the output on your google drive or download them as .zip by uncommenting either of the last two cells.
+
+## Reproducing Results on BN-HTRd **Test Dataset** (with ground truths):
+1) Open the **BN_DRISHTI_Run_On_Test_Sets.ipynb** script from 'test_scripts' folder and click on the **Open In Colab** Button.
+2) Run the script from **Runtime ->  Run All**
+3) By default it is executed on the **test.zip** data but you can supply your own .zip file through a link.
+4) If you use your own dataset you also have to supply ground truths (please follow folder structure like test.zip).
+5) The outputs will be saved on the temporary space in CoLab.
+6) You can also save the output on your google drive or download them as .zip by uncommenting either of the last two cells.
+
+## MODEL Files:
+- The custom YOLO models trained on the BN-HTRd Dataset for **line and word segmentation** will be automatically downloaded when you run the script.
+- If you want to download the Trained Models you can visit our Hugging Face Model Hub:
+	- [BN-DRISHTI Line/Word Segmentation Models](https://huggingface.co/crusnic/BN-DRISHTI/tree/main/models)
+	
+**Note:** You will not be able to get perfect results by only using the models. Please fllow the scripts for more details (a **PAPER** based on this project is on the pipeline).
+
+## Dataset:
+- We primarily used the [BN-HTRd](https://data.mendeley.com/datasets/743k6dm543) Dataset (v4.0) - for Training/Evaluating our models.
+- You can find the exact Splitted Dataset in our Hugging Face Dataset Hub:
+	- [BN-HTRd_Splitted Dataset for Model Building](https://huggingface.co/datasets/shaoncsecu/BN-HTRd_Splitted)
+	
+	
+ ## To Cite the Dataset Paper:
+ ```ruby
+ @misc{https://doi.org/10.48550/arxiv.2206.08977,
+  doi = {10.48550/ARXIV.2206.08977},
+  url = {https://arxiv.org/abs/2206.08977},
+  author = {Rahman, Md. Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
+  title = {BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+```
