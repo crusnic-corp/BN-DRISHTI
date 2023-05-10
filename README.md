@@ -1,5 +1,5 @@
-# BN-DRISHTI
-**B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
+# **BN-DRISHTI**
+**BN-DRISHTI:** **B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
 
 ## How To Run The **DEMO** (Inferencing on Single Image):
 1) Open the [**BN_DRISHTI_DEMO.ipynb**](https://github.com/crusnic-corp/BN-DRISHTI/blob/main/BN_DRISHTI_DEMO.ipynb) script and click on the **Open In Colab** Button.
