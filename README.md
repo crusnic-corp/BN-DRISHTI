@@ -1,5 +1,5 @@
 # BN-DRISHTI
-Line and Word Segmentation for Bangla Handwritten Text Recognition
+**B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
 
 ## How To Run The **DEMO** (Inferencing on Single Image):
 1) Open the [**BN_DRISHTI_DEMO.ipynb**](https://github.com/crusnic-corp/BN-DRISHTI/blob/main/BN_DRISHTI_DEMO.ipynb) script and click on the **Open In Colab** Button.
@@ -35,7 +35,7 @@ You can see different transitions/outputs by going through the cells.
   		- Line Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/line_model_best.pt`
   		- Word Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/word_model_best.pt`
 	
-**Note:** You will not be able to get perfect results by only using the models. Please fllow the scripts for more details (a **PAPER** based on this project is on the pipeline).
+**Note:** You will not be able to get perfect results by only using the YOLO models. Please check our methods and scripts for more details (a **PAPER** based on this project is on the pipeline).
 
 ## Dataset:
 - We primarily used the [BN-HTRd](https://data.mendeley.com/datasets/743k6dm543) Dataset (v4.0) - for Training/Evaluating our models.
