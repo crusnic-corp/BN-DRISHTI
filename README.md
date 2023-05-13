@@ -45,13 +45,12 @@ You can see different transitions/outputs by going through the cells.
 	
  ## To Cite the Dataset Paper:
  ```ruby
- @misc{https://doi.org/10.48550/arxiv.2206.08977,
-  doi = {10.48550/ARXIV.2206.08977},
-  url = {https://arxiv.org/abs/2206.08977},
-  author = {Rahman, Md. Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
-  title = {BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@incollection{rahman2023bn,
+  title={BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
+  author={Rahman, Md Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
+  booktitle={Computer Vision and Image Analysis for Industry 4.0},
+  pages={1--16},
+  year={2023},
+  publisher={CRC Press 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742}
 }
 ```
