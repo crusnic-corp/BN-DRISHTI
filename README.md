@@ -29,9 +29,10 @@ You can see different transitions/outputs by going through the cells.
 - If you want to download the Trained Models you can visit our Hugging Face Model Hub:
 	- [BN-DRISHTI Line/Word Segmentation Models](https://huggingface.co/crusnic/BN-DRISHTI/tree/main/models)
 - [Try Out Live Demo for YOLO Models Only](https://bn-htr-yolo.streamlit.app/):
-	- You can either **Download** the models from our [HuggingFace Model Hub](https://huggingface.co/crusnic/BN-DRISHTI/tree/main/models) and upload them while running the demo.
+	- By **Default** the selected models (line/word) are *downloaded automatically* from our [HuggingFace Model Hub](https://huggingface.co/crusnic/BN-DRISHTI/tree/main/models).
+	- You can also use your own model (.pt) file through **File Upload** option while running the demo.
  	<br>**OR**</br>
-	- you can paste these **Links** directly to to URL option:
+	- You can paste the models **Link** directly to the **URL** option, for example:
   		- Line Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/line_model_best.pt`
   		- Word Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/word_model_best.pt`
 	
