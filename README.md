@@ -1,8 +1,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-line-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-line-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-word-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-word-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-word-segmentation-on)](https://paperswithcode.com/sota/handwritten-word-segmentation-on?p=bn-drishti-bangla-document-recognition)
-[![Generic badge](https://img.shields.io/badge/State_of_the_Art-Handwritten_Word_and_Line_Segmentation_on_WBSUBNdb\_text-<COLOR>.svg)](https://github.com/Chayan-halder/WBSUBNdb_text---Bangla-handwritten-text-document-dataset)
 [![Generic badge](https://img.shields.io/badge/State_of_the_Art-On_ICDAR_2013_Handwriting_Segmentation_Dataset-<COLOR>.svg)](https://users.iit.demokritos.gr/~nstam/ICDAR2013HandSegmCont/resources.html)
+[![Generic badge](https://img.shields.io/badge/State_of_the_Art-Handwritten_Word_and_Line_Segmentation_on_WBSUBNdb\_text-<COLOR>.svg)](https://github.com/Chayan-halder/WBSUBNdb_text---Bangla-handwritten-text-document-dataset)
 
 # **BN-DRISHTI**
 **BN-DRISHTI:** **B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
