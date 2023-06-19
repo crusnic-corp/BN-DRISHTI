@@ -1,5 +1,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-line-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-line-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-word-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-word-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-word-segmentation-on)](https://paperswithcode.com/sota/handwritten-word-segmentation-on?p=bn-drishti-bangla-document-recognition)
 
 # **BN-DRISHTI**
 **BN-DRISHTI:** **B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
