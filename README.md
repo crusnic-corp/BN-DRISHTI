@@ -39,7 +39,8 @@ You can see different transitions/outputs by going through the cells.
   		- Line Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/line_model_best.pt`
   		- Word Model: `https://huggingface.co/crusnic/BN-DRISHTI/resolve/main/models/word_model_best.pt`
 	
-**Note:** You will not be able to get perfect results by only using the YOLO models. Please check our methods and scripts for more details (Please Check Our **BN-DRISHTI PAPER**).
+**Note:** You will not be able to get perfect results by only using the YOLO models.
+- Please check our scripts and methods for more details [**BN-DRISHTI PAPER**](https://arxiv.org/abs/2306.09351).
 
 ## Dataset:
 - We primarily used the [BN-HTRd](https://data.mendeley.com/datasets/743k6dm543) Dataset (v4.0) - for Training/Evaluating our models.
