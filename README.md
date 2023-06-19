@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-line-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-line-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/bn-drishti-bangla-document-recognition/handwritten-word-segmentation-on-bn-htrd)](https://paperswithcode.com/sota/handwritten-word-segmentation-on-bn-htrd?p=bn-drishti-bangla-document-recognition)
+
 # **BN-DRISHTI**
 **BN-DRISHTI:** **B**a**n**gla **D**ocument **R**ecognition through **I**nstance-level **S**egmentation of **H**andwritten **T**ext **I**mages
 
@@ -47,11 +50,24 @@ You can see different transitions/outputs by going through the cells.
  ## To Cite the Dataset Paper:
  ```ruby
 @incollection{rahman2023bn,
-  title={BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
-  author={Rahman, Md Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
-  booktitle={Computer Vision and Image Analysis for Industry 4.0},
-  pages={1--16},
-  year={2023},
-  publisher={CRC Press 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742}
+      title={BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR) and Line Segmentation},
+      author={Rahman, Md Ataur and Tabassum, Nazifa and Paul, Mitu and Pal, Riya and Islam, Mohammad Khairul},
+      booktitle={Computer Vision and Image Analysis for Industry 4.0},
+      pages={1--16},
+      year={2023},
+      publisher={CRC Press 6000 Broken Sound Parkway NW, Suite 300, Boca Raton, FL 33487-2742}
 }
 ```
+
+ ## To Cite the **BN-DRISHTI** Paper:
+ ```ruby
+@misc{jubaer2023bndrishti,
+      title={BN-DRISHTI: Bangla Document Recognition through Instance-level Segmentation of Handwritten Text Images}, 
+      author={Sheikh Mohammad Jubaer and Nazifa Tabassum and Md. Ataur Rahman and Mohammad Khairul Islam},
+      year={2023},
+      eprint={2306.09351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
