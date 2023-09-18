@@ -65,13 +65,15 @@ You can see different transitions/outputs by going through the cells.
 
  ## To Cite the **BN-DRISHTI** Paper:
  ```ruby
-@misc{jubaer2023bndrishti,
-      title={BN-DRISHTI: Bangla Document Recognition through Instance-level Segmentation of Handwritten Text Images}, 
-      author={Sheikh Mohammad Jubaer and Nazifa Tabassum and Md. Ataur Rahman and Mohammad Khairul Islam},
-      year={2023},
-      eprint={2306.09351},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{10.1007/978-3-031-41501-2_14,
+      author="Jubaer, Sheikh Mohammad and Tabassum, Nazifa and Rahman, Md Ataur and Islam, Mohammad Khairul",
+      editor="Coustaty, Mickael and Forn{\'e}s, Alicia",
+      title="BN-DRISHTI: Bangla Document Recognition Through Instance-Level Segmentation of Handwritten Text Images",
+      booktitle="Document Analysis and Recognition -- ICDAR 2023 Workshops",
+      year="2023",
+      publisher="Springer Nature Switzerland",
+      address="Cham",
+      pages="195--212"
 }
 ```
 
